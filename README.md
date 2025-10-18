@@ -111,7 +111,7 @@ Frontend runs on **[http://localhost:5173](http://localhost:5173)** (or the port
 ## 🖼️ Demo Video
 
 🎥 Watch the full walkthrough here:
-[**Working Demo**]((https://drive.google.com/file/d/1zms_uRTExX9y08y6BIEPha05fPT-7C2O/view?usp=sharing))
+[**Working Demo**](https://drive.google.com/file/d/1zms_uRTExX9y08y6BIEPha05fPT-7C2O/view?usp=sharing)
 
 ---
 
@@ -120,8 +120,8 @@ Frontend runs on **[http://localhost:5173](http://localhost:5173)** (or the port
 **Madhan Kumar K**
 Frontend & Backend Developer | Computer Science Undergraduate
 
-* 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/madhankumar-karthikeyan/)) 
-* 💻 [Portfolio]([https://your-portfolio-link.com](https://madhannmady.github.io/Responsive-Portfolio/)) 
+* 🌐 [LinkedIn](https://www.linkedin.com/in/madhankumar-karthikeyan/)
+* 💻 [Portfolio](https://madhannmady.github.io/Responsive-Portfolio/)
 
 ---
 
